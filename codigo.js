@@ -19,15 +19,6 @@ import javax.imageio.ImageIO;
 import javax.swing.JComponent;
 import javax.swing.JOptionPane;
  
-/**
- *
- * @author Yacoobs
- * Viernes 17 de noviembre de 2017.
- * 
- * Programa muy sencillo basado en el famoso juego de hacer rebotar una pelota e ir eliminando todos los ladrillos
- * que hay en el mapa, estos de dan puntos a cambio. Dispones de un determinado numero de vidas si la bola cae por 
- * debajo de tu plataforma.
- */
 public class Interface_Juego extends javax.swing.JFrame {
  
     private boolean Tocar_Bola = true;
